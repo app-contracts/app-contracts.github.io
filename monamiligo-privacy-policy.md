@@ -1,4 +1,6 @@
 ---
+title: monamiligo-privacy-policy
+---
 ## Privacy Policy
 
 monamiligo built the monamiligo app as a Free app. This SERVICE is provided by monamiligo at no cost and is intended for use as is.
@@ -59,4 +61,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
----
